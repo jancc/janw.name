@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+$if(title)$
+		<title>Jan Wolff - $title$</title>
+$else$
+		<title>Jan Wolff</title>
+$endif$
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<div id="page">
+$if(title)$
+			<div id="header">
+				<a href="index.html">jancc.de</a>
+			</div>
+			<hr>
+$endif$
+			<div id="content">
+$if(title)$
+				<h1>$title$</h1>
+$endif$
+				$body$
+			</div>
+		</div>
+	</body>
+</html>

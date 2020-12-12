@@ -1,0 +1,32 @@
+html {
+	overflow-y: scroll;
+}
+body {
+	font-family: sans-serif;
+}
+h1 {
+	text-align: center;
+}
+a {
+	color: #108f10;
+}
+#page {
+	max-width: 50em;
+	margin: auto;
+	text-align: justify;
+}
+.centered {
+	text-align: center;
+}
+.mugshot {
+	width: 10em;
+}
+@media (min-width: 50em) {
+	.profile {
+		display: flex;
+	}
+	.mugshot {
+		float: left;
+		margin: 2em;
+	}
+}
