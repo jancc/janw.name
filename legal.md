@@ -4,7 +4,7 @@ title: Legal Disclaimer
 
 ## License
 
-Copyright 2013-2020 Jan Wolff. All trademarks and trademarked contents are the
+Copyright 2013-2021 Jan Wolff. All trademarks and trademarked contents are the
 properties of their respective owners. All other content, except where noted,
 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
