@@ -14,18 +14,17 @@ a {
 	max-width: 50em;
 	margin: auto;
 }
-.centered {
-	text-align: center;
-}
 .mugshot {
 	width: 10em;
 }
-@media (min-width: 50em) {
-	.profile {
-		display: flex;
+@media (max-width: 50em) {
+	.mugshot-c {
+		text-align: center;
 	}
+}
+@media (min-width: 50em) {
 	.mugshot {
 		float: left;
-		margin: 2em;
+		margin: 1em;
 	}
 }

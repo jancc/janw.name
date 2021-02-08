@@ -1,11 +1,10 @@
 # Jan Wolff
 
-<div class="profile">
-<div style="flex-grow: 1;text-align:center;"><img class="mugshot" src="me.webp" alt="Portrait" /></div>
-<div style="flex-grow: 1">
+<div class="mugshot-c"><img class="mugshot" src="me.webp" alt="Portrait" /></div>
+
 Hi! I'm Jan.
 
-Computer scientist and currently a PhD candidate at the [Human-Computer
+Computer scientist and currently a PhD student at the [Human-Computer
 Interaction Group](https://hci.uni-hannover.de/) at the [Leibniz
 University](https://www.uni-hannover.de/) in Hanover, Germany. My field of
 research is Human-Computer Interaction. Specifically, I want to bridge the gap
@@ -22,9 +21,6 @@ In my free time I sometimes create computer
 [software](https://klockenschooster.de/tools.html). Source code can
 be found on my [GitHub profile](https://github.com/jancc) or my own
 [cgit server](https://git.klockenschooster.de).
-
-</div>
-</div>
 
 ## Contact
 
