@@ -24,8 +24,8 @@ be found on my [GitHub profile](https://github.com/jancc) or my own
 
 ## Contact
 
-* Mail: `Jan Wolff <contact[ät]jancc.de>`
-* PGP: [0xA5E88B1D6D2A68026](D2A68026.asc)
+* Mail: `Jan Wolff <me[ät]janw.name>`
+* PGP: [0x9F09F36299A9845A](99A9845A.asc)
 
 ---
 
