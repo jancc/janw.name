@@ -8,7 +8,7 @@ page: $(PAGES)
 	pandoc --standalone --template template.html $< -o build/$@
 
 publish: page
-	rsync -r -a --delete --progress build/ klockenschooster:/var/www/jancc.de
+	rsync -r -a --delete --progress build/ klockenschooster:/var/www/janw.name
 
 clean:
 	rm -r build
