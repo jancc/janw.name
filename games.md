@@ -33,7 +33,7 @@ mouse (or with the touchscreen if you play on Android).
 [itch.io](https://klockenschooster.itch.io/duckalypse)
 
 Source code is available on the game's
-[git repository](https://git.klockenschooster.de/duckalypse.git/).
+[git repository](https://git.janw.name/duckalypse.git/).
 </p>
 </details>
 
@@ -63,7 +63,7 @@ you, the Cybernator, have to help them.
 [itch.io](https://klockenschooster.itch.io/500m)
 
 Source code is available on the game's
-[git repository](https://git.klockenschooster.de/500m.git/).
+[git repository](https://git.janw.name/500m.git/).
 </p>
 </details>
 
@@ -80,7 +80,7 @@ Made in 2014 for [Fuck This Jam](http://fuckthisjam.com).
 Needs to be ported to a newer Unity version first...
 
 Source code is available on the game's
-[git repository](https://git.klockenschooster.de/artistique.git/).
+[git repository](https://git.janw.name/artistique.git/).
 </p>
 </details>
 
@@ -123,8 +123,8 @@ how to implement the Mario-like "jumping on heads" mechanic.
 
 #### Download
 
-* [win32](https://klockenschooster.de/files/be_smart_game/be_smart_game.zip)
-([SHA256](https://klockenschooster.de/files/be_smart_game/be_smart_game.zip.sha256))
+* [win32](https://janw.name/files/be_smart_game/be_smart_game.zip)
+([SHA256](https://janw.name/files/be_smart_game/be_smart_game.zip.sha256))
 </p>
 </details>
 
@@ -144,8 +144,8 @@ músic. The second one works better in Wine.
 
 #### Download
 
-* [win32](https://klockenschooster.de/files/oea/oea.zip)
-([SHA256](https://klockenschooster.de/files/oea/oea.zip.sha256))
+* [win32](https://janw.name/files/oea/oea.zip)
+([SHA256](https://janw.name/files/oea/oea.zip.sha256))
 </p>
 </details>
 
@@ -166,8 +166,8 @@ Fun fact: 2012 and 2006 are less far apart than 2012 and now :)
 
 #### Download
 
-* [win32](https://klockenschooster.de/files/raum_race/raum_race.zip)
-([SHA256](https://klockenschooster.de/files/raum_race/raum_race.zip.sha256))
+* [win32](https://janw.name/files/raum_race/raum_race.zip)
+([SHA256](https://janw.name/files/raum_race/raum_race.zip.sha256))
 </p>
 </details>
 
