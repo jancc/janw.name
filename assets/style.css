@@ -28,3 +28,6 @@ a {
 		margin: 1em;
 	}
 }
+.centered {
+	text-align: center;
+}

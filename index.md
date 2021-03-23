@@ -16,16 +16,17 @@ developments that enable a true digital permaculture, in which every device is
 reprogrammable and repairable to massively curb the energy requirements of
 hardware production.
 
-In my free time I sometimes create computer
-[games](https://klockenschooster.de/games.html) and other
-[software](https://klockenschooster.de/tools.html). Source code can
-be found on my [GitHub profile](https://github.com/jancc) or my own
-[cgit server](https://git.klockenschooster.de).
-
 ## Contact
 
 * Mail: `Jan Wolff <me[ät]janw.name>`
 * PGP: [0x9F09F36299A9845A](99A9845A.asc)
+
+## Hobby Stuff
+
+* [Games](games.html)
+* [Tools](tools.html)
+* [Code](https://git.janw.name)
+* [GitHub profile](https://github.com/jancc)
 
 ---
 

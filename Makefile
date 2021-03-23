@@ -1,4 +1,5 @@
-PAGES = index.html legal.html
+SOURCES := $(wildcard *.md)
+PAGES := $(patsubst %.md,%.html,$(SOURCES))
 
 page: $(PAGES)
 	cp -r assets/* build/
