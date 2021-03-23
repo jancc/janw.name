@@ -21,12 +21,17 @@ hardware production.
 * Mail: `Jan Wolff <me[ät]janw.name>`
 * PGP: [0x9F09F36299A9845A](99A9845A.asc)
 
-## Hobby Stuff
+## Hobbyist
 
 * [Games](games.html)
 * [Tools](tools.html)
-* [Code](https://git.janw.name)
-* [GitHub profile](https://github.com/jancc)
+* [Source code](https://git.janw.name)
+
+## Elsewhere
+
+* [GitHub](https://github.com/jancc)
+* [GitLab](https://gitlab.com/xrcoredll)
+* [itch.io](https://klockenschooster.itch.io)
 
 ---
 
