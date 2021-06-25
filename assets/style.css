@@ -17,6 +17,16 @@ a {
 .mugshot {
 	width: 10em;
 }
+@media (prefers-color-scheme: dark) {
+	a {
+		color: #5fe35f;
+	}
+
+	body {
+		background: #0d0d0d;
+		color: #ebebeb;
+	};
+}
 @media (max-width: 50em) {
 	.mugshot-c {
 		text-align: center;
