@@ -18,14 +18,14 @@ hardware production.
 
 ## Contact
 
-* Mail: `Jan Wolff <me[ät]janw.name>`
+* Mail: `echo go@dkhw.hkgo | tr q-za-p q-zg-pa-f`
 * PGP: [0x9F09F36299A9845A](99A9845A.asc)
 
 ## Hobbyist
 
 * [Games](games.html)
 * [Tools](tools.html)
-* [Source code](https://git.janw.name)
+* [Source Code](https://git.janw.name/jw)
 
 ## Elsewhere
 
