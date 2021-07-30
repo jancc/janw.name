@@ -11,6 +11,9 @@ page: $(PAGES)
 publish: page
 	rsync -r -a --delete --progress build/ klockenschooster:/var/www/janw.name
 
+publish-pi: page
+	rsync -r -a --delete --progress build/ pi:/var/www/janw.name
+
 clean:
 	rm -r build
 
