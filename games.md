@@ -125,6 +125,9 @@ how to implement the Mario-like "jumping on heads" mechanic.
 
 * [win32](https://janw.name/files/be_smart_game/be_smart_game.zip)
 ([SHA256](https://janw.name/files/be_smart_game/be_smart_game.zip.sha256))
+* IPFS
+    * `be_smart_game.zip`: `QmRQ2pCV8sFkNvjLh76RA2Gky22HfN1CfXhVBFGZdp3icU`
+
 </p>
 </details>
 
@@ -146,6 +149,9 @@ músic. The second one works better in Wine.
 
 * [win32](https://janw.name/files/oea/oea.zip)
 ([SHA256](https://janw.name/files/oea/oea.zip.sha256))
+* IPFS
+    * `oea.zip`: `Qmf9GKRKTa1sgWFbdPMyD9JMxrkX5rhdcSCVV1eXxHJW6k`
+
 </p>
 </details>
 
@@ -168,6 +174,9 @@ Fun fact: 2012 and 2006 are less far apart than 2012 and now :)
 
 * [win32](https://janw.name/files/raum_race/raum_race.zip)
 ([SHA256](https://janw.name/files/raum_race/raum_race.zip.sha256))
+* IPFS
+    * `raum_race.zip`: `QmaRKBHkjenW5HcXCvSu9zej3fxXm7x7HVsGmHQUqsWwkg`
+
 </p>
 </details>
 

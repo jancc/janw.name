@@ -22,6 +22,11 @@ yourself in may be worse than confinement...
 * [itch.io](https://klockenschooster.itch.io/godscythe)
 * [Google Drive](https://drive.google.com/file/d/1KdPc1uc1nctFbo7fosMsdObKzHiVd6XX/view?usp=sharing)
 
+#### IPFS
+
+* `godscythe.zip`: `QmNtPv65qESScq4GvUKF84YKh82H7PKSFKXaru1fjamwG2`
+* PGP Signature: `Qmd7rXhbe1BjReDLobfY6Lotszeu7fsoFZQpEbU6y5pAn`
+
 ## Media
 
 <div class="centered">
