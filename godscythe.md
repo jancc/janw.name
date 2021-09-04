@@ -25,7 +25,7 @@ yourself in may be worse than confinement...
 #### IPFS
 
 * `godscythe.zip`: `QmNtPv65qESScq4GvUKF84YKh82H7PKSFKXaru1fjamwG2`
-* PGP Signature: `Qmd7rXhbe1BjReDLobfY6Lotszeu7fsoFZQpEbU6y5pAn`
+* PGP Signature: `Qmd7rXhbe1BjReDLobfY6Lotszeu7fsoFZQpEbU6y5pAnu`
 
 ## Media
 
