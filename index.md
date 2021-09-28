@@ -23,6 +23,7 @@ hardware production.
 
 ## Hobbyist
 
+* [My Blog](https://blog.janw.name)
 * [Games](games.html)
 * [Tools](tools.html)
 * [Source Code](https://git.janw.name/jw)
