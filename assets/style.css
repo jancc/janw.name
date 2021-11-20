@@ -23,6 +23,10 @@ p {
 .mugshot {
 	width: 10em;
 }
+::selection {
+	color: #ffffff;
+	background: #108f10;
+}
 @media (prefers-color-scheme: dark) {
 	a {
 		color: #5fe35f;
@@ -31,7 +35,12 @@ p {
 	body {
 		background: #0d0d0d;
 		color: #ebebeb;
-	};
+	}
+
+	::selection {
+		color: #0d0d0d;
+		background: #5fe35f;
+	}
 }
 @media (max-width: 50em) {
 	.mugshot-c {
