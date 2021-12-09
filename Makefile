@@ -9,7 +9,7 @@ page: $(PAGES)
 	pandoc --standalone --template template.html $< -o build/$@
 
 publish: page
-	rsync -r -a --delete --progress build/ klockenschooster:/var/www/janw.name
+	rsync -r -a --delete --progress build/ janw:/var/www/janw.name
 
 publish-pi: page
 	rsync -r -a --delete --progress build/ pi:/var/www/janw.name
