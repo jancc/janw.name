@@ -165,7 +165,8 @@ make them disappear. If any alien touches your spaceship you loose points.
 The original version was made in 2006. I slightly retouched it back in 2012.
 If I remember correctly it was meant as a demo for a much more ambitious game.
 
-Fun fact: 2012 and 2006 are less far apart than 2012 and now :)
+Fun fact: If my english back then would have been any better, the game's name
+would likely be "Space Race".
 
 <a target="_blank" href="raum_race/screenshot100.png"><img src="raum_race/screenshot100-mini.png" /></a>
 <a target="_blank" href="raum_race/screenshot101.png"><img src="raum_race/screenshot101-mini.png" /></a>
