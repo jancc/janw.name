@@ -19,6 +19,17 @@ Hi! I'm Jan. You can find some of the stuff that I made on this website!
 * [GitHub](https://github.com/jancc)
 * [GitLab](https://gitlab.com/xrcoredll)
 * [itch.io](https://klockenschooster.itch.io)
+* <a rel="me" href="https://tilde.zone/@zweiblatt">Mastodon</a>
+
+## Fediring
+
+[Previous Website](https://fediring.net/previous?host=janw.name)
+or
+[Next Website](https://fediring.net/next?host=janw.name)
+
+[Fediring](https://fediring.net/) is a modern day
+[webring](https://en.wikipedia.org/wiki/Webring) that lets you explore other
+fediverse users’ personal websites.
 
 ---
 
