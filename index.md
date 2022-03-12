@@ -29,7 +29,8 @@ or
 
 [Fediring](https://fediring.net/) is a modern day
 [webring](https://en.wikipedia.org/wiki/Webring) that lets you explore other
-fediverse users’ personal websites.
+fediverse users’ personal websites. How about a completely
+[random Website](https://fediring.net/random)?
 
 ---
 
