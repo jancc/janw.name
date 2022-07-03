@@ -1,6 +1,6 @@
 # Jan W.
 
-Hi! I'm Jan. You can find some of the stuff that I made on this website!
+Hi! I'm Jan (he/him). You can find some of the stuff that I made on this website!
 
 ## Contact
 
