@@ -12,7 +12,7 @@ Hi! I'm Jan (he/him). You can find some of the stuff that I made on this website
 * [My Blog](https://blog.janw.name)
 * [Games](games.html)
 * [Tools](tools.html)
-* [Source Code](https://git.janw.name/jw)
+* [Source Code](https://git.janw.name)
 
 ## Elsewhere
 
